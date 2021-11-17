@@ -15,7 +15,7 @@ I used required technologies to build a MERN-stack based Google book search engi
  - Axios
 
 ## A glimpse to the application
-![Screenshot](./client/public/image/screen1.png)
+![Screenshot](/client/public/image/screen1.png)
 
 ## Requirements
 
