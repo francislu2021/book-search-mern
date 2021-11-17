@@ -3,7 +3,7 @@
 ##### Application description
 I used required technologies to build a MERN-stack based Google book search engine. The application allows users to search the books via Google book search and save their interested results for later. The application is deployed on heroku.
 
-## Heroku deployment url: ( )
+## Heroku deployment url: (https://secret-coast-06039.herokuapp.com/)
 ## Github repository url: (https://github.com/francislu2021/book-search-mern)
 
 ### Technologies Used
